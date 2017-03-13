@@ -4,7 +4,7 @@
   <groupId>cn.ciacs.maven</groupId>
   <artifactId>project01</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT.{v}</version>
   <name>project01 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
